@@ -1,0 +1,11 @@
+regolith-gdm3-theme (1.01-1ubuntu1) bionic; urgency=medium
+
+  * Makefile fix. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 29 Mar 2019 07:30:06 -0700
+
+regolith-gdm3-theme (1.0-1ubuntu1) bionic; urgency=medium
+
+  * Initial release
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Thu, 28 Mar 2019 21:36:00 -0700

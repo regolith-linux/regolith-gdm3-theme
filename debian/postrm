@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -e
+
+# Make Ubuntu the gdm3 theme.
+update-alternatives --install /usr/share/gnome-shell/theme/gdm3.css gdm3.css /usr/share/gnome-shell/theme/ubuntu.css 15
+
+#DEBHELPER#

@@ -1,0 +1,13 @@
+Source: regolith-gdm3-theme
+Section: x11
+Priority: optional
+Maintainer: Ken Gilmer <kgilmer@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/regolith-linux/regolith-desktop
+Vcs-Git: https://github.com/regolith-linux/regolith-gdm3-theme.git
+
+Package: regolith-gdm3-theme
+Architecture: all
+Depends: ${misc:Depends}, gdm3
+Description: Regolith gdm3 based on Ubuntu 18.04 theme.
