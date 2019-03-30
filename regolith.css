@@ -1814,7 +1814,7 @@ StScrollBar {
 #lockDialogGroup {
   background: #2c001e url(file:///usr/share/backgrounds/regolith-lockscreen.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 

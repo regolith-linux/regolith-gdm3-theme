@@ -1,3 +1,9 @@
+regolith-gdm3-theme (1.02-1ubuntu1) bionic; urgency=medium
+
+  * Fix lockscreen image layout. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 29 Mar 2019 21:36:18 -0700
+
 regolith-gdm3-theme (1.01-1ubuntu1) bionic; urgency=medium
 
   * Makefile fix. 
