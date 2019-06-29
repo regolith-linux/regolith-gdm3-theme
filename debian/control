@@ -8,6 +8,6 @@ Homepage: https://github.com/regolith-linux/regolith-desktop
 Vcs-Git: https://github.com/regolith-linux/regolith-gdm3-theme.git
 
 Package: regolith-gdm3-theme
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}, gdm3
 Description: Regolith gdm3 based on Ubuntu 18.04 theme.
