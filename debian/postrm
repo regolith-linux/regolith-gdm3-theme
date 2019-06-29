@@ -2,7 +2,7 @@
 
 set -e
 
-# Make Ubuntu the gdm3 theme.
-update-alternatives --install /usr/share/gnome-shell/theme/gdm3.css gdm3.css /usr/share/gnome-shell/theme/ubuntu.css 15
+# Revert the gdm3 theme.
+update-alternatives --remove gdm3.css /usr/share/gnome-shell/theme/regolith.css
 
 #DEBHELPER#

@@ -1,3 +1,16 @@
+regolith-gdm3-theme (1.03-1ubuntu2) bionic; urgency=medium
+
+  * Fix issue with uninstallation of Regolith on Ubuntu 19.04.
+    Fixes https://github.com/regolith-linux/regolith-gdm3-theme/issues/2 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 15 Jun 2019 09:58:53 -0700
+
+regolith-gdm3-theme (1.03-1ubuntu1) bionic; urgency=medium
+
+  * Change some colors to be closer to Solarized. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 07 Apr 2019 10:09:21 -0700
+
 regolith-gdm3-theme (1.02-1ubuntu1) bionic; urgency=medium
 
   * Fix lockscreen image layout. 
