@@ -1,8 +1,8 @@
-regolith-gdm3-theme (1.03-1ubuntu3) bionic; urgency=medium
+regolith-gdm3-theme (1.04-1ubuntu1~ppa1) disco; urgency=medium
 
-  * Add arm build. 
+  * Update for R1.2 release. 
 
- -- Ken Gilmer <kgilmer@gmail.com>  Fri, 28 Jun 2019 20:46:26 -0700
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 08 Sep 2019 17:30:53 -0700
 
 regolith-gdm3-theme (1.03-1ubuntu2) bionic; urgency=medium
 
@@ -10,6 +10,12 @@ regolith-gdm3-theme (1.03-1ubuntu2) bionic; urgency=medium
     Fixes https://github.com/regolith-linux/regolith-gdm3-theme/issues/2 
 
  -- Ken Gilmer <kgilmer@gmail.com>  Sat, 15 Jun 2019 09:58:53 -0700
+ 
+regolith-gdm3-theme (1.03-1ubuntu1ppa1) bionic; urgency=medium
+
+  * Support arm build. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 28 Jun 2019 19:27:02 -0700
 
 regolith-gdm3-theme (1.03-1ubuntu1) bionic; urgency=medium
 

@@ -1,8 +1,6 @@
 #!/bin/sh
 
-set -e
-
-# Revert the gdm3 theme.
-update-alternatives --remove gdm3.css /usr/share/gnome-shell/theme/regolith.css
+# Remove Regolith gdm3 theme.
+update-alternatives --quiet --auto gdm3.css
 
 #DEBHELPER#

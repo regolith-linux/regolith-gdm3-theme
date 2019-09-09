@@ -1,8 +1,7 @@
 #!/bin/sh
 
-set -e
-
 # Make regolith-lockscreen the gdm3 theme.
 update-alternatives --install /usr/share/gnome-shell/theme/gdm3.css gdm3.css /usr/share/gnome-shell/theme/regolith.css 15
+update-alternatives --set gdm3.css /usr/share/gnome-shell/theme/regolith.css
 
 #DEBHELPER#
