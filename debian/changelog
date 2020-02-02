@@ -1,3 +1,9 @@
+regolith-gdm3-theme (1.1.0-1ubuntu1~ppa1) bionic; urgency=medium
+
+  * Fix layout issues when user has image in user profile. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 02 Feb 2020 14:37:13 -0800
+
 regolith-gdm3-theme (1.05-1ubuntu1~ppa1) eoan; urgency=medium
 
   * Migrate to new PPA. 
